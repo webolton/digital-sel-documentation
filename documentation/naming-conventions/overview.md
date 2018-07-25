@@ -1,0 +1,19 @@
+# Introduction
+
+## Project Name
+
+### Prose Style Conventions
+
+- The project is called "The Digital South English Legendary."
+- When abreviation is needed in prose, it is called "The Digital SEL"
+
+### Project Directory Structure
+
+Project directory structure is delimited by hyphens. The directory structure does not include the word
+"project" in directory structure or filenames.
+
+- The API directory is called the `digital-sel-api`
+- The Client directory is called the `digital-sel-client`
+
+### Conventions in Code
+
