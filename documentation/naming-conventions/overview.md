@@ -12,8 +12,11 @@
 Project directory structure is delimited by hyphens. The directory structure does not include the word
 "project" in directory structure or filenames.
 
+Examples:
+
 - The API directory is called the `digital-sel-api`
 - The Client directory is called the `digital-sel-client`
 
 ### Conventions in Code
 
+Conventions of a given language should be given precident.
